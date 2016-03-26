@@ -167,6 +167,11 @@ img.article-image {
   margin: auto;
 }
 
+img.desaturate {
+	-webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+}
+
 footer {
   background-image: url(images/footer-background.png);
   background-size: cover;
