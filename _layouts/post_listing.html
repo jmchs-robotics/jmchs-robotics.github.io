@@ -14,6 +14,8 @@ layout: default
           <h2 class="mdl-card__title-text">{{post.title}}</h2>
         </div>
         <div class="mdl-card__supporting-text">
+          <span>{{ post.date | date: '%B %d, %Y' }}</span>
+          <br/>
           {{post.description || post.excerpt}}
         </div>
         <div class="mdl-card__actions mdl-card--border">

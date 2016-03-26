@@ -16,7 +16,12 @@
                     <img class="article-image" src="{{page.banner}}" border="0" alt="">
                 </div>
                 {% endif %}
-                {{ content }}
+                </br>
+                <span>{% if page.author %} Written by {{page.author}} &bull; {% endif %} {{ page.date | date: '%B %d, %Y' }}</span>
+                </br>
+                <div class="mdl-card__actions mdl-card--border post-content">
+                  {{ content }}
+                </div>
               </div>
             </div>
             {% include footer.html %}
