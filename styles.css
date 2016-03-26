@@ -1,6 +1,6 @@
 .portfolio-header {
   position: relative;
-  background-image: url(images/header-bg.jpg);
+  /*background-image: url(images/header-bg.jpg);*/
 }
 
 .portfolio-header .mdl-layout__header-row {
@@ -90,18 +90,6 @@
   padding-bottom: 0;
 }
 
-.portfolio-blog-card-full-bg {
-  background: url(images/example-blog03.jpg) center / cover;
-}
-
-.portfolio-blog-card-event-bg {
-  background: url(images/example-blog05.jpg) center / cover;
-}
-
-.portfolio-blog-card-strip-bg {
-  background: url(images/example-blog06.jpg) center / cover;
-}
-
 .portfolio-blog-card-compact .mdl-card__title {
   padding-bottom: 0;
 }
@@ -173,7 +161,7 @@ img.desaturate {
 }
 
 footer {
-  background-image: url(images/footer-background.png);
+  /*background-image: url(images/footer-background.png);*/
   background-size: cover;
 }
 
