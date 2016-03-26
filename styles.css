@@ -169,11 +169,6 @@ footer {
   margin: auto 5px auto 5px;
 }
 
-.large_sponsor {
-  height: 200px;
-  width: auto;
-}
-
 .medium_sponsor {
   height: auto;
   max-width: 50%;
@@ -187,4 +182,10 @@ footer {
 .post-content img {
   width: 100%;
   height: auto;
+}
+
+.centered {
+  display:flex;
+  justify-content:center;
+  align-items:center;
 }
