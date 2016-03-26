@@ -176,3 +176,18 @@ footer {
   background-image: url(images/footer-background.png);
   background-size: cover;
 }
+
+.large_sponsor {
+  height: 200px;
+  width: auto;
+}
+
+.medium_sponsor {
+  height: auto;
+  max-width: 50%;
+}
+
+.small_sponsor {
+  height: 50px;
+  width: auto;
+}
