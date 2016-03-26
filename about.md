@@ -25,3 +25,5 @@ FIRST is an international organization started in 1994 by Dean Kamen and Woodie 
 - Kevin Lee
 - Kyle Williams
 - Joey Thomas
+- Jing Chen
+- Shakayla Smith
