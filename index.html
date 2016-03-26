@@ -5,9 +5,11 @@ active: Achievements
 <div class="mdl-grid portfolio-max-width">
     {% for post in site.posts %}
     <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card">
+        {% if post.image %}
         <div class="mdl-card__media">
             <img class="article-image" src="{{post.image}}" border="0" alt="">
         </div>
+        {% endif %}
         <div class="mdl-card__title">
             <h2 class="mdl-card__title-text">{{post.title}}</h2>
         </div>
