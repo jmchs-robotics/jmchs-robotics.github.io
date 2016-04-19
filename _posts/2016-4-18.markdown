@@ -1,0 +1,25 @@
+---
+layout: post
+author: Declan Van Uitert
+title: Game of 2016
+---
+
+We started club meetings sometime in October 2015, and worked until December on a basic robot. We only drove that robot once. We did this to prepare for January 9th, 2016, which was FRC kickoff. 
+
+Once kickoff came we immediately started coming up with ideas for a robot that could meet the game setting defined by kickoff. This turned out to be a challenge because all our ideas ended up being against the rules. The day afterwards we went over the rules and started designing a machine that would comply with FRC rules. 
+
+We ended the week with about four different candidates for a robot. Over the next few weeks we tweaked the design and eventually got to the robot we have today. 
+
+We spent the entirety of the second week modeling, figuring out the specifics of the design, and making a cardboard model of our robot. At the end of the week we had a frame. 
+
+In the third week, Waterford gave us a chance to test our robot on Saturday and were pressed for time to get a drivetrain done. We finished the drivetrain by Friday and found out that it worked well but couldn’t get over the Cheval de Frise, Portcullis, and and the rock wall. 
+
+We spent the next week fixing this problem and adding an arm. 
+
+By the sixth week we had a finished robot, but we had no autonomous. We bagged it and left. 
+
+Over the next month we borrowed on of the previous robot that GTI had and used it to get autonomous functioning. 
+
+Once The regional came around, we had a path and it was working except for one bug. It couldn’t drive straight. Eventually, we reduced the curve significantly to get to the goal and score. But it was edgy whether it would get there or not. 
+
+In the end we made it to the final round of competition in the Salt Lake Regionals. We lost the very last round by only five points. We won three awards; Highest Seeded Rookie, Finalist, and Rookie All-Star. Because we won All-Star Rookie Team, we also made it to the Nationals.
