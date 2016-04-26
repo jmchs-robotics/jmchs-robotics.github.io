@@ -30,10 +30,10 @@
 
 .portfolio-logo {
   background: url(images/logo.svg) 50% no-repeat;
-  background-size: 80%;
+  background-size: 50%;
   height: 150px;
   width: 150px;
-  background-color: white;
+  background-color: #666666;
    -moz-border-radius: 70px;
    -webkit-border-radius: 70px;
    border-radius: 70px;
