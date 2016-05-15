@@ -6,3 +6,6 @@ permalink: pretty
 
 gems:
   - jekyll-seo-tag
+
+twitter:
+  username: JMRobotics_5933
