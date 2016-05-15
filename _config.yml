@@ -3,3 +3,6 @@ url: https://jmchs-robotics.github.io
 
 markdown: kramdown
 permalink: pretty
+
+gems:
+  - jekyll-seo-tag
