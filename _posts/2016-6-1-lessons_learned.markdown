@@ -39,4 +39,4 @@ When being asked to join the First Robotics team was quite nerve wracking for me
 
 ---
 
-[Original Google Drive Document](https://contacts.google.com/u/0/preview/all)
+[Original Google Drive Document](https://docs.google.com/document/d/1GADEDzHx5MO_rFvFLqPevadCKZasyC_IgfH6KcRDr90/edit?usp=sharing)
