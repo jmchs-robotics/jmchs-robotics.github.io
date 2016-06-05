@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Lessons Learned
-description: We learned many things during the season we will carry with us for the rest of our lives.
 ---
+
+***We learned many things during the season we will carry with us for the rest of our lives.***
 
 > Having a small team is nice - since it is easier to get together and know each other, but teams with more members seem to get more done. A goal we need to achieve is recruiting more members, which would let us host outreach and service projects, get more done in the build season, and raise more money overall; as well as spreading interest about FIRST and robotics to more people in the community.
 
